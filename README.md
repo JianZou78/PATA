@@ -1,5 +1,6 @@
-User Guide for the Python Script
-Overview
+- User Guide for the Python Script
+- 
+-- Overview
 This Python script automates the process of making a call using Microsoft Teams, interacting with an Android device via ADB, and managing test results. It includes functionalities for selecting folders, finding windows by title, and executing commands in the command prompt.
 
 Dependencies
